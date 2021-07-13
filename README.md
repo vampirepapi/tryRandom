@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img alt="centered image" height="85" src="https://bestanimations.com/media/india/659801420india-flag-waving-animated-gif-11.gif" class="center"/>
+  <img alt="centered image" height="85" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png"/>
   </div>
 <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=vampirepapi.vampirepapi" alt="visitor badge"/>
