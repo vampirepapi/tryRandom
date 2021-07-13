@@ -36,6 +36,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  <br>
+  <img alt="centered image" height="85" src="https://bestanimations.com/media/india/659801420india-flag-waving-animated-gif-11.gif"/>
+  </p>
 <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=vampirepapi.vampirepapi" alt="visitor badge"/>
 </p>
