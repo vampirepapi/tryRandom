@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img alt="centered image" height="85" src="https://allindiaroundup.com/wp-content/uploads/2017/01/republic-day-2017-national-flag-hd-wallpapers-images-pictures-free-download-8.gif"/>
+  <img alt="centered image" height="85" src="https://allindiaroundup.com/wp-content/uploads/2017/01/republic-day-2017-national-flag-hd-wallpapers-images-pictures-free-download-6.gif"/>
   </div>
 <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=vampirepapi.vampirepapi" alt="visitor badge"/>
