@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img alt="centered image" height="85" src="https://github.com/vampirepapi/vampirepapi/blob/main/assets/Indian%20Flag.png"/>
+  <img alt="centered image" height="85" src="https://1.bp.blogspot.com/-m3SHVZBF1xs/YDbAycy_JzI/AAAAAAAA4Ok/J1W44Fj_lsExfGt0KMG_lNwBjvEoajqGwCLcBGAsYHQ/s0/Flag_of_India.gif"/>
   </div>
 <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=vampirepapi.vampirepapi" alt="visitor badge"/>
