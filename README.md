@@ -3,7 +3,7 @@
 <div align="center">
 <h2> Yo welcome to vampirepapi's den! <img src="https://github.com/vampirepapi/vampirepapi/blob/main/assets/Hi.gif" width="30px"> </h2>
   <span title="Don't Bother Him">
-  <img src="https://github.com/vampirepapi/vampirepapi/blob/main/assets/terminal.gif">
+  <img src="https://github.com/vampirepapi/vampirepapi/blob/main/assets/terminal.gif" width="300px">
   </span>
   <p align="center">
   <br>
