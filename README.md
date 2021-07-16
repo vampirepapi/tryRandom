@@ -22,8 +22,6 @@
 [![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=blue)](https://www.instagram.com/vampire_papi/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=cyan)](mailto:shubhamsourabh8@gmail.com)
 
-<p><img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=vampirepapi&count_private=true&theme=cobalt" /> <img align="right" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=vampirepapi&theme=vue-dark" /></p>
-
   
 </div>
 
@@ -31,7 +29,7 @@
 
 <div align="center">
   <img alt="centered image" height="85" src="https://allindiaroundup.com/wp-content/uploads/2017/01/republic-day-2017-national-flag-hd-wallpapers-images-pictures-free-download-6.gif"/>
-  </div>
+</div>
 <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=vampirepapi.vampirepapi" alt="visitor badge"/>
 </p>
