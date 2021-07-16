@@ -33,7 +33,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vampirepapi" alt="vampirepapi" /></a> </p>
 
-<p><img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=nishkarshraj&count_private=true&theme=dark" /> <img align="right" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=nishkarshraj&theme=dark" /></p>
+<p><img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=vampirepapi&count_private=true&theme=dark" /> <img align="right" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=vampirepapi&theme=dark" /></p>
 
 <br>
 
