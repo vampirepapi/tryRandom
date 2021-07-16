@@ -8,7 +8,7 @@
   <text>Do. Or do not. There is no try. — Yoda</text>
   </p>
 
-  <p><img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=vampirepapi&count_private=true&theme=vue" /> <img align="right" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=vampirepapi&theme=vue" /></p>
+  <p><img align="left" width=500 src="https://github-readme-stats.vercel.app/api?username=vampirepapi&count_private=true&theme=vue" /> <img align="right" width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=vampirepapi&theme=vue" /></p>
 <!--
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/vampirepapi/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vampirepapi/)
