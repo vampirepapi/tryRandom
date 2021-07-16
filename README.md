@@ -24,7 +24,7 @@
 
 </div>
 
-<p><img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=vampirepapi&count_private=true&theme=cobalt" /> <img align="right" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=vampirepapi&theme=cobalt" /></p>
+<p><img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=vampirepapi&count_private=true&theme=cobalt" /> <img align="right" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=vampirepapi&theme=vue-dark" /></p>
 
 
 <div align="center">
