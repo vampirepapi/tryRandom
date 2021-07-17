@@ -13,10 +13,11 @@
 [![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=blue)](https://www.instagram.com/vampire_papi/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=cyan)](mailto:shubhamsourabh8@gmail.com)
 
-<p><img align="center" width=600 src="https://activity-graph.herokuapp.com/graph?username=vampirepapi" /></p>
+
 </div>
 
 <div align="center">
+  <p><img align="center" width=600 src="https://activity-graph.herokuapp.com/graph?username=vampirepapi" /></p>
   <img alt="centered image" height="85" src="https://github.com/vampirepapi/vampirepapi/blob/main/assets/Indian%20Flag.png"/>
   </div>
   <p align="center">
