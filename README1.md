@@ -36,5 +36,4 @@
 <p><img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=vampirepapi&count_private=true&theme=dark" /> <img align="right" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=vampirepapi&theme=dark" /></p>
 
 <br>
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vampirepapi&label=vampires%20landed&color=0e75b6&style=flat" alt="vampirepapi" /> </p>
